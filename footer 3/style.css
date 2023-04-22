@@ -1,0 +1,37 @@
+.footer{
+   width: 95%;
+   text-align: center;
+   padding: 30px;
+}
+.footer-bottom{
+   background: black;
+   width: 101%;
+   text-align: center;
+   margin-bottom: -30px;
+}
+
+.footer-bottom p{
+   font-size: 14px;
+   color: #bbbbbb;
+   word-spacing: 3px;
+   text-transform: capitalize;
+   font-weight: 250;
+}
+.footer h4{
+   margin-bottom: 25px;
+   margin-top: 20px;
+   font-weight: 600;
+   font-family: sans-serif;
+}
+.icons .fa{
+   color: #f44336;
+   margin: 0 11px;
+   cursor: pointer;
+   padding: 18px 0;
+}
+.fa-heart-o{
+   color: #f44336;
+}
+.icons.fa-heart-o:hover{
+   background-color: #f44336;
+}
